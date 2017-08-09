@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.0"
+	Name="minres_eig"
+	ProjectGUID="{5325D7D0-4E8F-4A3E-B374-13ED5DB447DB}"
+	VCNestedProjectGUID="{317DAE7C-20A6-464D-92D7-8647501E4D2B}"
+	VCNestedProjectFileName="minres_eig.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="GeneralTool"
+				InterproceduralOptimization="false"/>
+			<Tool
+				Name="CppCmplrTool"
+				Optimization="1000"
+				GlobalOptimizations="true"
+				InterproceduralOptimization="0"
+				OptimizeForWindowsApplication="true"
+				Parallelization="true"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>

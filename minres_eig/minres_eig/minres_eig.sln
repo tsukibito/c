@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{EAF909A5-FA59-4C3D-9431-0FCC20D5BCF9}") = "minres_eig", "minres_eig\minres_eig.icproj", "{5325D7D0-4E8F-4A3E-B374-13ED5DB447DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5325D7D0-4E8F-4A3E-B374-13ED5DB447DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5325D7D0-4E8F-4A3E-B374-13ED5DB447DB}.Debug|Win32.Build.0 = Debug|Win32
+		{5325D7D0-4E8F-4A3E-B374-13ED5DB447DB}.Release|Win32.ActiveCfg = Release|Win32
+		{5325D7D0-4E8F-4A3E-B374-13ED5DB447DB}.Release|Win32.Build.0 = Release|Win32
+		{317DAE7C-20A6-464D-92D7-8647501E4D2B}.Release|Win32.Build.0 = Release|Win32
+		{317DAE7C-20A6-464D-92D7-8647501E4D2B}.Release|Win32.ActiveCfg = Release|Win32
+		{317DAE7C-20A6-464D-92D7-8647501E4D2B}.Debug|Win32.Build.0 = Debug|Win32
+		{317DAE7C-20A6-464D-92D7-8647501E4D2B}.Debug|Win32.ActiveCfg = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

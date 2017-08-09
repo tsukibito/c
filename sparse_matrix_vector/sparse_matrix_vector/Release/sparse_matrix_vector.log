@@ -1,0 +1,39 @@
+﻿2011/01/30 9:49:31 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "G:\新しいフォルダ\デスクトップ\sparse_matrix_vector\sparse_matrix_vector\sparse_matrix_vector.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\sparse_matrix_vector.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>test.c(67): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 'scanf' の宣言を確認してください。
+     1>test.c(68): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 'scanf' の宣言を確認してください。
+     1>test.c(72): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>test.c(73): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+     1>test.c(74): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>test.c(75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+     1>test.c(201): warning C4101: 'pre_fd' : ローカル変数は 1 度も使われていません。
+     1>test.c(201): warning C4101: 'rho' : ローカル変数は 1 度も使われていません。
+     1>test.c(201): warning C4101: 'fd' : ローカル変数は 1 度も使われていません。
+     1>test.c(201): warning C4101: 'beta' : ローカル変数は 1 度も使われていません。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\新しいフォルダ\デスクトップ\sparse_matrix_vector\Release\sparse_matrix_vector.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\sparse_matrix_vector.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\新しいフォルダ\デスクトップ\sparse_matrix_vector\Release\sparse_matrix_vector.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\新しいフォルダ\デスクトップ\sparse_matrix_vector\Release\sparse_matrix_vector.lib" /MACHINE:X86 Release\sparse_matrix_vector.obj
+         Release\test.obj
+         コード生成しています。
+         コード生成が終了しました。
+         sparse_matrix_vector.vcxproj -> G:\新しいフォルダ\デスクトップ\sparse_matrix_vector\Release\sparse_matrix_vector.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\新しいフォルダ\デスクトップ\sparse_matrix_vector\Release\sparse_matrix_vector.exe;#1" /manifest Release\sparse_matrix_vector.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ファイル "Release\sparse_matrix_vector.unsuccessfulbuild" を削除しています。
+         "Release\sparse_matrix_vector.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "G:\新しいフォルダ\デスクトップ\sparse_matrix_vector\sparse_matrix_vector\sparse_matrix_vector.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.41
